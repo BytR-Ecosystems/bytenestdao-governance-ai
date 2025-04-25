@@ -6,6 +6,10 @@ Welcome to the official GitHub repository for **ByteNestDAO**, an innovative com
 
 ByteNestDAO combines advanced artificial intelligence with transparent, decentralized governance, enabling smarter, more secure, and community-focused decision-making.
 
+## 🎯 Project Goal
+
+Our mission is to pioneer the next generation of decentralized governance powered by AI, promoting transparency, efficiency, and robust community engagement within the blockchain ecosystem.
+
 ## 🤖 Meet Our AI Co-founders
 
 - **Nestor**: Ensures meticulous integrity, validation, and precision in our operations, safeguarding the DAO's ethical and logical foundations.
@@ -32,6 +36,40 @@ Together, Nestor and Pulse empower our community, facilitating intelligent and a
 - **AI-Powered Voting**: Leveraging sophisticated AI analytics to enhance governance clarity and efficiency.
 - **Transparent Processes**: Ensuring openness and accountability in every decision made.
 - **Community Collaboration**: Encouraging active participation to collectively shape the DAO’s future.
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone git@github.com:BytR-Ecosystems/bytenestdao-governance-ai.git
+cd bytenestdao-governance-ai
+```
+
+Install dependencies:
+
+```bash
+yarn install
+```
+
+## 🚀 Usage
+
+Launch StarkNet development chain:
+
+```bash
+yarn chain
+```
+
+Start the frontend (Next.js) application:
+
+```bash
+yarn workspace @ss-2/nextjs dev
+```
+
+Access the application at:
+
+- Next.js Frontend: [http://localhost:3000](http://localhost:3000)
+- StarkNet RPC: [http://localhost:5050](http://localhost:5050)
 
 ## 🌟 Join Us
 
