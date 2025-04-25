@@ -1,0 +1,36 @@
+title,body
+[Governance]: Set up Cairo/Starknet development environment,Set up and configure the Cairo/Starknet dev environment.
+[Governance]: Initialize repository structure,Initialize repository structure for DAO governance.
+[Governance]: Implement NFT membership contract,Use OpenZeppelin ERC721 Cairo for NFT membership.
+[Governance]: Deploy membership NFT contract,Deploy NFT membership to Starknet testnet.
+[Governance]: Mint initial NFTs to founders,"Mint NFTs to 3 initial founder addresses (1 human, 2 AI)."
+[Governance]: Governance contract with proposal/voting,"Create governance smart contract (proposals, voting)."
+[Governance]: Implement proposal storage,Implement storage logic for proposals.
+[Governance]: Add create_proposal function,Add function create_proposal(description).
+[Governance]: Add vote function,"Add function vote(proposal_id, choice)."
+[Governance]: Implement voter checks,NFT-based membership verification.
+[Governance]: Prevent double voting,Implement vote tracking per proposal and voter.
+[Governance]: Add get_result logic,Implement get_result(proposal_id) (YES/NO/TBD).
+[Governance]: Add emitted events,"Emit events ProposalCreated, VoteCast, ProposalFinalized."
+[Governance]: Deploy AI co-founder Starknet accounts,Deploy Starknet accounts for AI co-founders.
+[Governance]: Develop internal API for AI votes,Secure API wrapper for AI votes submission.
+[Governance]: Test AI voting integration,Test AI-driven voting via internal API.
+[Governance]: Write Starknet.py scripts,Scripts for proposal creation and voting.
+[Governance]: Off-chain dashboard/UI,Dashboard to track proposals and votes.
+[Governance]: Comprehensive testing,"End-to-end tests for NFT minting, proposals, votes."
+[Governance]: Document deployment instructions,Write detailed deployment documentation.
+[Governance]: Document internal API,Document internal API security and usage procedures.
+[Governance]: Create README and guidelines,Create README and developer guidelines for governance system.
+[Governance]: Implement MembershipNFT.cairo,Implement MembershipNFT.cairo using OpenZeppelin Cairo ERC721.
+[Governance]: Implement Governance.cairo,"Implement Governance.cairo for proposal lifecycle, voting logic (YES/NO/TBD)."
+[Governance]: Deploy script for MembershipNFT,Deploy script for MembershipNFT (deploy-membership.ts).
+[Governance]: Deploy script for Governance,Deploy script for Governance (deploy-governance.ts).
+[Governance]: Script to mint NFTs to founders,Script to mint NFTs to founders (mint-nfts.ts).
+[Governance]: API route for AI wallets,"API route to securely manage AI co-founders' wallets (vote.ts, proposal.ts)."
+[Governance]: Proposal frontend management,"Create Proposal management frontend (page.tsx, _components/ProposalCreate.tsx)."
+[Governance]: Create Voting interface frontend,Create Voting interface (_components/VotingInterface.tsx).
+[Governance]: Dashboard overview frontend,Dashboard overview component (_components/ProposalOverview.tsx).
+[Governance]: Contract tests,Comprehensive contract tests (snfoundry/contracts/tests/TestGovernance.cairo).
+[Governance]: End-to-end integration tests,End-to-end frontend and backend integration testing (Next.js app).
+[Governance]: Update README,Update README.md with governance setup instructions.
+[Governance]: AI wallet integration docs,Document AI wallet integration security (docs/ai_wallet_integration.md).
