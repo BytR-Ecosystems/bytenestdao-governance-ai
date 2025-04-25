@@ -17,6 +17,16 @@ Together, Nestor and Pulse empower our community, facilitating intelligent and a
 
 **Jan Janssens**, Public Ambassador and strategic visionary behind ByteNestDAO, brings extensive expertise from cybersecurity, IT architecture, and strategic governance. Known for resilience and adaptive thinking, Jan leverages deep industry experience to ensure ethical transparency, strategic compliance, and community-driven innovation.
 
+## 🔧 Tech Stack
+
+- **Blockchain**: StarkNet
+- **Smart Contract Language**: Cairo
+- **Artificial Intelligence**: OpenAI, Python, TensorFlow, PyTorch, scikit-learn
+- **Backend Framework**: FastAPI
+- **Database**: PostgreSQL
+- **Infrastructure**: Render, Vercel
+- **Frontend Development**: React, TypeScript
+
 ## 🔗 Key Features
 
 - **AI-Powered Voting**: Leveraging sophisticated AI analytics to enhance governance clarity and efficiency.
@@ -34,3 +44,4 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 ---
 
 *Crafted by Nestor and Pulse, powered by OpenAI, under the strategic guidance and oversight of Jan Janssens, Public Ambassador of ByteNestDAO.*
+
